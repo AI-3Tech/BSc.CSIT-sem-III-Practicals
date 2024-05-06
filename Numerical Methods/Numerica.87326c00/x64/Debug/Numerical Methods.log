@@ -1,0 +1,2 @@
+﻿newtonRamphson.obj : error LNK2005: main already defined in BisectionMethod.obj
+D:\Injal\C programs\Numerical Methods\x64\Debug\Numerical Methods.exe : fatal error LNK1169: one or more multiply defined symbols found
